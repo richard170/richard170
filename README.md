@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richard170&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ##
 
-<div align="center">   
+<div align="center" target=”_blank”>   
    <a href="https://skillicons.dev" target=”_blank”>
     <img target=”_blank” src="https://skillicons.dev/icons?i=git,github,nodejs,java,react,nextjs,js,ts,css,html,prisma,mysql,postgres" />
    </a>
