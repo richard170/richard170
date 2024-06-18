@@ -10,15 +10,15 @@
 ##
 
 <div align="center">   
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,java,react,nextjs,js,ts,css,html,prisma,mysql,postgres" />
+   <a href="https://skillicons.dev" target=”_blank”>
+    <img target=”_blank” src="https://skillicons.dev/icons?i=git,github,nodejs,java,react,nextjs,js,ts,css,html,prisma,mysql,postgres" />
    </a>
 </div>
 
 ##
 <div align="center">
    <p>🎧 I love music! | Spotify Playing</p>
-   <img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />
+   <img target=”_blank” src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />
 </div>
 
 ##
