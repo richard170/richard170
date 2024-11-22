@@ -1,6 +1,5 @@
 ## Hello!! Eu sou o Richard Lucas  👋
 
-![](https://github-readme-stats.vercel.app/api?username=richard170&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ##
 ![](https://github-readme-streak-stats.herokuapp.com/?user=richard170&theme=dark&hide_border=false)<br/>
 ##
@@ -16,7 +15,9 @@
 ##
 <div align="center">
    <p>🎧 I love music! | Spotify Playing</p>
-   <img target=”_blank” src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />
+   <div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 </div>
 
 ##
