@@ -15,8 +15,10 @@
 ##
 <div align="center">
    <p>🎧 I love music! | Spotify Playing</p>
+   
+   ![](https://spotify-recently-played-readme.vercel.app/api?user=31nwhhxkcclzkxrhe3a4ac6dlbpa)
+  
    <div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 </div>
 
