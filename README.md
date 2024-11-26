@@ -1,6 +1,5 @@
 ## Hello!! Eu sou o Richard Lucas  👋
 
-##
 <div align="center">
    
    ![](https://github-readme-streak-stats.herokuapp.com/?user=richard170&theme=dark&hide_border=false)<br/>
