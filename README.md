@@ -8,12 +8,6 @@
 </div>
 
 ##
-<div align="center">
-   
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richard170&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-##
 
 <div align="center" target=”_blank”>   
    <a href="https://skillicons.dev" target=”_blank”>
