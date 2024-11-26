@@ -1,9 +1,18 @@
 ## Hello!! Eu sou o Richard Lucas  👋
 
 ##
-![](https://github-readme-streak-stats.herokuapp.com/?user=richard170&theme=dark&hide_border=false)<br/>
+<div align="center">
+   
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=richard170&theme=dark&hide_border=false)<br/>
+   
+</div>
+
 ##
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=richard170&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+   
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richard170&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
 ##
 
 <div align="center" target=”_blank”>   
@@ -18,8 +27,6 @@
    
    ![](https://spotify-recently-played-readme.vercel.app/api?user=31nwhhxkcclzkxrhe3a4ac6dlbpa)
   
-   <div align="center">
-</div>
 </div>
 
 ##
