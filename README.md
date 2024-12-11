@@ -15,13 +15,5 @@
 </div>
 
 ##
-<div align="center">
-   <p>🎧 I love music! | Spotify Playing</p>
-   
-   ![](https://spotify-recently-played-readme.vercel.app/api?user=31nwhhxkcclzkxrhe3a4ac6dlbpa)
-  
-</div>
-
-##
 
 [![](https://visitcount.itsvg.in/api?id=richard170&icon=0&color=0)](https://visitcount.itsvg.in)
