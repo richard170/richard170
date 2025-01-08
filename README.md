@@ -1,4 +1,9 @@
-## Hello!! Eu sou o Richard Lucas  👋
+## 
+<div align="center">
+   
+   Hello!! Eu sou o Richard Lucas  👋
+   
+</div>
 
 <div align="center">
    
